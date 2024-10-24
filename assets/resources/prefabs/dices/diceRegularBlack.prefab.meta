@@ -2,12 +2,12 @@
   "ver": "1.1.50",
   "importer": "prefab",
   "imported": true,
-  "uuid": "f631b9f8-9940-4cd5-bbb4-bb3341c1f3b1",
+  "uuid": "ca0f57d1-1c72-418b-849a-066e08dc001d",
   "files": [
     ".json"
   ],
   "subMetas": {},
   "userData": {
-    "syncNodeName": "dice-regular-black"
+    "syncNodeName": "diceRegularBlack"
   }
 }
